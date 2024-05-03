@@ -1,0 +1,13 @@
+C:\Users\zombi\OneDrive\Programs Made By Jayce Iezzi\C#\IT-Programming Attendance And Sign-Out\IT-Programming Attendance And Sign-Out\bin\Debug\IT-Programming Attendance And Sign-Out.exe.config
+C:\Users\zombi\OneDrive\Programs Made By Jayce Iezzi\C#\IT-Programming Attendance And Sign-Out\IT-Programming Attendance And Sign-Out\bin\Debug\IT-Programming Attendance And Sign-Out.exe
+C:\Users\zombi\OneDrive\Programs Made By Jayce Iezzi\C#\IT-Programming Attendance And Sign-Out\IT-Programming Attendance And Sign-Out\bin\Debug\IT-Programming Attendance And Sign-Out.pdb
+C:\Users\zombi\OneDrive\Programs Made By Jayce Iezzi\C#\IT-Programming Attendance And Sign-Out\IT-Programming Attendance And Sign-Out\obj\Debug\IT-Programming Attendance And Sign-Out.csproj.AssemblyReference.cache
+C:\Users\zombi\OneDrive\Programs Made By Jayce Iezzi\C#\IT-Programming Attendance And Sign-Out\IT-Programming Attendance And Sign-Out\obj\Debug\IT-Programming Attendance And Sign-Out.csproj.SuggestedBindingRedirects.cache
+C:\Users\zombi\OneDrive\Programs Made By Jayce Iezzi\C#\IT-Programming Attendance And Sign-Out\IT-Programming Attendance And Sign-Out\obj\Debug\IT_Programming_Attendance_And_Sign_Out.Properties.Resources.resources
+C:\Users\zombi\OneDrive\Programs Made By Jayce Iezzi\C#\IT-Programming Attendance And Sign-Out\IT-Programming Attendance And Sign-Out\obj\Debug\IT-Programming Attendance And Sign-Out.csproj.GenerateResource.cache
+C:\Users\zombi\OneDrive\Programs Made By Jayce Iezzi\C#\IT-Programming Attendance And Sign-Out\IT-Programming Attendance And Sign-Out\obj\Debug\IT-Programming Attendance And Sign-Out.csproj.CoreCompileInputs.cache
+C:\Users\zombi\OneDrive\Programs Made By Jayce Iezzi\C#\IT-Programming Attendance And Sign-Out\IT-Programming Attendance And Sign-Out\obj\Debug\IT-Programming Attendance And Sign-Out.exe
+C:\Users\zombi\OneDrive\Programs Made By Jayce Iezzi\C#\IT-Programming Attendance And Sign-Out\IT-Programming Attendance And Sign-Out\obj\Debug\IT-Programming Attendance And Sign-Out.pdb
+C:\Users\zombi\OneDrive\Programs Made By Jayce Iezzi\C#\IT-Programming Attendance And Sign-Out\IT-Programming Attendance And Sign-Out\obj\Debug\IT_Programming_Attendance_And_Sign_Out.frmWelcomePage.resources
+C:\Users\zombi\OneDrive\Programs Made By Jayce Iezzi\C#\IT-Programming Attendance And Sign-Out\IT-Programming Attendance And Sign-Out\obj\Debug\IT_Programming_Attendance_And_Sign_Out.SwipeToAdd.resources
+C:\Users\zombi\OneDrive\Programs Made By Jayce Iezzi\C#\IT-Programming Attendance And Sign-Out\IT-Programming Attendance And Sign-Out\obj\Debug\IT_Programming_Attendance_And_Sign_Out.frmStudentInformationForm.resources
